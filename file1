@@ -7,6 +7,6 @@ AFTER --set-upstream origin main
 ide
 test
 sfdsf
-new text feature text1
+new text feature feature1 text1
 
 test fetch
