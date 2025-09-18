@@ -1,15 +1,3 @@
-Привет, Мир!
-Same
+feat: Добавлена обработка docx
 
-Change1
-
-AFTER --set-upstream origin main
-ide
-test
-sfdsf
-new text feature feature1 text1
-
-test fetch
-
-
-sadasdasdad
+Теперь можно обрабатывать файлы docx
